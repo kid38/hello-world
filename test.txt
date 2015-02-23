@@ -1,3 +1,4 @@
 Hello world!
 
 This is an edited text.
+This is a new text.
