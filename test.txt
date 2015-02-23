@@ -1,4 +1,3 @@
 Hello world!
 
-This is a new version of text.
-This is another text.
+This is a text.
